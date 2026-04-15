@@ -1,7 +1,5 @@
-## Hi, I'm Tasker 👋
 
-
-# 👋 Hi, I'm Atinuke  
+# 👋 Hi, I'm Tasker  
 
  **Aspiring Data Scientist | Python • SQL • Machine Learning • Visualization**  
 
