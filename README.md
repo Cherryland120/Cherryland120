@@ -12,15 +12,15 @@
 ---
 
 ### GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cherryland120&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cherryland120&show_icons=true&theme=radical&count_private=true&hide_rank=true)
 
 ### Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cherryland120&layout=compact&theme=radical)
 ---
 
 ### Featured Projects  
-- [Employee Travel & Demographics Analysis](https://github.com/tasguard-solution/clarion_state_map)  
--  [Top Female Artists' Concerts](https://github.com/Atinukecodes/women-concert-tour-cleaning)  
+- [Data Lorry](https://github.com/tasguard-solution/clarion_state_map)  
+-  [Animation Trigger System](https://github.com/Cherryland120/AnimationTriggerSystem)  
 - [Nigeria's Covid 19 Analysis](https://github.com/Atinukecodes/nigeria-covid19-analysis)  
 
 ---
