@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Tasker  
 
- **Aspiring Data Scientist | Python • SQL • Machine Learning • Visualization**  
+ **Software Engineer | Python • C# • Machine Learning • Visualization**  
 
 -  I love turning **raw data into insights** that solve real-world problems  
 -  Skilled in **Pandas, Matplotlib, Plotly, Scikit-learn, SQL**  
@@ -21,7 +21,7 @@
 ### Featured Projects  
 - [Data Lorry](https://github.com/tasguard-solution/clarion_state_map)  
 -  [Animation Trigger System](https://github.com/Cherryland120/AnimationTriggerSystem)  
-- [Nigeria's Covid 19 Analysis](https://github.com/Atinukecodes/nigeria-covid19-analysis)  
+- [Intelligent Sentiment Based Review Logger](https://github.com/Cherryland120/Sentiment-Based-Review-Logger)  
 
 ---
 ### Streak Stats
@@ -30,7 +30,7 @@
 ---
 
 
-💡 *“Always learning. Always building”*  
+💡 *“One improvement a day. That's all it takes.”*  
 <!--
 **Cherryland120/Cherryland120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
