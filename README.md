@@ -37,10 +37,10 @@ Interactive system design project exploring event-driven animation logic.
 
 🔗 https://github.com/Cherryland120/AnimationTriggerSystem
 
-### Intelligent Sentiment Based Review Logger  
-ML-powered review classification and sentiment analysis project.
+### Bio Log  
+Biology based learning site that teaches with 2D and 3D images.
 
-🔗 https://github.com/Cherryland120/Sentiment-Based-Review-Logger
+🔗 https://github.com/tasguard-solution/Bio-Log
 
 ---
 
