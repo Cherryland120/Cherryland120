@@ -64,7 +64,7 @@ Biology based learning site that teaches with 2D and 3D images.
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://duckdns.org)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Cherryland120&theme=radical)
 
 ## 👀 Visitor Count
 
